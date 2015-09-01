@@ -1,5 +1,5 @@
 require 'mina/hooks'
-
+require 'openssl'
 require 'json'
 require 'net/http'
 
